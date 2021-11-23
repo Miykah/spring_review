@@ -12,5 +12,6 @@ public class UserDaoImpl implements UserDao {
     @Override
     public void add() {
         System.out.println("dao add...");
+        System.out.println("dao add2...");
     }
 }
